@@ -1,0 +1,10 @@
+# Resume Content
+/pdf_bundle/*.pdf
+/text_bundle/*.txt
+/results/*
+
+# Old Resume Data
+/Round_1/*
+
+# External Tools
+*xpdf*
